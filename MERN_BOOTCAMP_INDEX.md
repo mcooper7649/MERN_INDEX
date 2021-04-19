@@ -30,4 +30,6 @@ HTML 5 NOTEABLE LINKS
 - CSS PERSONAL SITE V2 [CSS-PERSONAL-SITEv2-README](CSS - My Site/readme.md)
     - Challenge Project to Create a Personal Site
 
-- CSS TINDOG [CSS-Tindog] (CSS - Tindog/README.md)
+- CSS TINDOG 
+    - [CSS-Tindog-README] (https://github.com/mcooper7649/CSS-TINDOG)
+    - [Tindog](https://github.com/mcooper7649/CSS-TINDOG/deployments/activity_log?environment=github-pages)
