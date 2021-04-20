@@ -34,8 +34,8 @@ HTML 5 NOTEABLE LINKS
     - Challenge Project to Create a Personal Site
 
 - CSS TINDOG 
-    - [CSS-Tindog-README] (https://github.com/mcooper7649/CSS-TINDOG)
-    - [Tindog](https://mcooper7649.github.io/CSS-TINDOG/)
+     [README] (https://github.com/mcooper7649/CSS-TINDOG)
+     [Tindog](https://mcooper7649.github.io/CSS-TINDOG/)
 
 ### JavaScript
 ---
@@ -95,7 +95,8 @@ HTML 5 NOTEABLE LINKS
 
 ### jQuery Introduction
 --- 
-- jQuery [jQuery] (https://github.com/mcooper7649/jQuery-Introduction)
+- jQuery 
+    [jQuery] (https://github.com/mcooper7649/jQuery-Introduction)
     - What is jQuery?
     - How to incorporate?
     - Bootstrap is to CSS as jQuery is to JavaScript
@@ -174,7 +175,7 @@ HTML 5 NOTEABLE LINKS
 
 [JSON-ViewerChromeExtension](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh/related)
 
-[Mozilla-HTTP-Status-Codes] (developer.mozilla.org/en-us/docs/web/http/status)
+[Mozilla-HTTP-Status-Codes] (https://developer.mozilla.org/en-us/docs/web/http/status)
 
 ### GIT, GITHUB, and VERSION CONTROL
 ---
@@ -237,8 +238,8 @@ HTML 5 NOTEABLE LINKS
 
 ### MongoDB | No Structure Query Language
 ---
-
 [MongoDB-ReadME](https://github.com/mcooper7649/Databases-mongoDB)
+- Mongo CRUD operations 
     - Create
     - Read
     - Update
@@ -251,10 +252,12 @@ HTML 5 NOTEABLE LINKS
 ---
 
 [Mongoose-Readme](https://github.com/mcooper7649/Mongoose)
+- Mongoose 
     - What is Mongoose?
     - Configure our DB
     - Inserting
     - MongoDB CHALLENGE
 
 [Mongoose-TODO-LIST-v2](https://github.com/mcooper7649/Mongoose-ToDoListV2)
+- Mongoose Challenge
     - Create a TODO list using mongoose
