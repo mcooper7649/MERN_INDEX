@@ -39,15 +39,16 @@ HTML 5 NOTEABLE LINKS
 
 ### JavaScript
 ---
-
-- JavaScript Introduction [JavaScript-Intro-Readme](https://github.com/mcooper7649/JS-Introduction)
+[JavaScript-Intro-Readme](https://github.com/mcooper7649/JS-Introduction)
+- JavaScript Introduction 
     - Data Types
     - Functions
     - Variables
     - Basic Methods
     - Challenges
 
-- JavasScript Intermediate [JavaScript-InterMediate-Readme](https://github.com/mcooper7649/JavaScript-Intermediate)
+[JavaScript-InterMediate-Readme](https://github.com/mcooper7649/JavaScript-Intermediate)
+- JavasScript Intermediate 
     - Random Number Generator
     - Love Calculator Challenge
     - IF, ELSE IF, ELSE, Compariables
@@ -62,7 +63,6 @@ HTML 5 NOTEABLE LINKS
 ---
 
 - Document Object Model [DOM-README](https://github.com/mcooper7649/DocumentObjectModel)
-
     - JavaScript lets DOM interact with the HTML and CSS.
     - This adds behavior to your site.
     - Getters, Setters and Methods
@@ -91,12 +91,13 @@ HTML 5 NOTEABLE LINKS
     - Object Methods
     - DRUM KIT Challenge 3
     - Callback functions
-    - DRUM KIT CHALLENGE 4 [Drum Kit Complete](https://www.blockhistory.co/)
+    - DRUM KIT CHALLENGE 4 
+        - [Drum Kit Complete](https://www.blockhistory.co/)
 
 ### jQuery Introduction
 --- 
-- jQuery 
-    [jQuery] (https://github.com/mcooper7649/jQuery-Introduction)
+[jQuery] (https://github.com/mcooper7649/jQuery-Introduction)
+- jQuery
     - What is jQuery?
     - How to incorporate?
     - Bootstrap is to CSS as jQuery is to JavaScript
@@ -113,18 +114,18 @@ HTML 5 NOTEABLE LINKS
         - Animations
     - Challenge #1
         - Simon Game
-        [Want to Play the Game?| Cooper's Copy](https://tender-shannon-6091f8.netlify.app/)
-        [Link to Repo](https://mcooper7649.github.io/Simon-Game)
+            - [Want to Play the Game?| Cooper's Copy](https://tender-shannon-6091f8.netlify.app/)
+            - [Link to Repo](https://mcooper7649.github.io/Simon-Game)
 
 ### Backend Web Development with Node
-- Node.js [Node-ReadMe](https://github.com/mcooper7649/nodeJS-Introduction)
+[LinkToNodeJS](https://nodejs.org/api/) - Offical Node Documentation
+[Node Package Manager](https://npmjs.org) - Additional User Created Node Libraries
+
+[Node-ReadMe](https://github.com/mcooper7649/nodeJS-Introduction)
+
+- Node.js 
     - Client-Side is Frontend Development
     - Server-Side and DB is Backend Developer
-    
-    [Node Package Manager](https://npmjs.org) - Additional User Created Node Libraries
-    [LinkToNodeJS](https://nodejs.org/api/) - Offical Node Native Libraries
-    [Node Package Manager](https://npmjs.org) - Additional User Created Node Libraries
-
     - What is node?
     - What does it do?
     - How to run a backend file?
@@ -136,8 +137,8 @@ HTML 5 NOTEABLE LINKS
 
 ### Expresss with Node
 ---
-
-- Express [Express](https://github.com/mcooper7649/nodeJs-withExpress/blob/main/my-express-server/server.js)
+[Express-ReadMe](https://github.com/mcooper7649/nodeJs-withExpress/blob/main/my-express-server/server.js)
+- Express 
     - Node was made to liberate JS from the browser
     - Node is a BROAD scope language
     - EXPRESS was designed to shrink that scope and optimize coding for web development
@@ -156,8 +157,8 @@ HTML 5 NOTEABLE LINKS
 
 ### APIS
 ---
-
-- APIS  [APIs-README](https://github.com/mcooper7649/API-ApplicationProgrammingInterface)
+[APIs-README](https://github.com/mcooper7649/API-ApplicationProgrammingInterface)
+- APIS  
     - What are APIS?
     - Kayne REST API
     - Endpoints
@@ -181,18 +182,17 @@ HTML 5 NOTEABLE LINKS
 ---
 
 [My-Github](https://www.github.com/mcooper7649)
-
-- GitBasics
-- Cloning
-- Branching Merging
-- Forking
+- Git
+    - GitBasics
+    - Cloning
+    - Branching Merging
+    - Forking
 
 
 ### EJS
 ---
 
 [EJS-README](https://github.com/mcooper7649/EJS)
-
 - EJS
     - What is EJS?
     - Installing and Configuring your Templates
@@ -205,7 +205,8 @@ HTML 5 NOTEABLE LINKS
     - Layouts and Partials
     - IMPORT/EXPORT Modules
     
-- EJS BLOG [EJS-README](https://github.com/mcooper7649/EJS-BlogWebsite)
+[EJS-README](https://github.com/mcooper7649/EJS-BlogWebsite)
+- EJS BLOG 
     - Building a Complete Blog using packages listed below
         - Mongoose
         - Express
